@@ -1,0 +1,101 @@
+name,age,education_level,skill_score,city,salary_yearly,salary_monthly
+Danish Ahmed 0,24,High School,5,Lahore,792684,66057
+Hassan Raza 1,44,High School,9,Karachi,1560888,130074
+Noor Fatima 2,22,High School,4,Lahore,732948,61079
+Sana Tariq 3,21,Bachelor,9,Rawalpindi,1387332,115611
+Hamza Iqbal 4,39,Intermediate,1,Lahore,730056,60838
+Noor Fatima 5,31,Intermediate,4,Islamabad,1004088,83674
+Usman Tariq 6,33,High School,6,Faisalabad,983196,81933
+Iqra Ahmed 7,22,Bachelor,9,Karachi,1548012,129001
+Usman Tariq 8,38,Intermediate,10,Islamabad,1740708,145059
+Ahmed Shah 9,43,High School,4,Islamabad,1030884,85907
+Saba Raza 10,28,Master,7,Islamabad,1728336,144028
+Danish Ahmed 11,32,High School,6,Lahore,1053360,87780
+Bilal Hussain 12,43,Master,2,Faisalabad,1248036,104003
+Fatima Noor 13,38,Bachelor,3,Rawalpindi,1005792,83816
+Bilal Hussain 14,41,Bachelor,4,Multan,1119756,93313
+Fahad Khan 15,45,Bachelor,4,Karachi,1276416,106368
+Saad Ali 16,29,High School,10,Multan,1338660,111555
+Ahmed Shah 17,41,Intermediate,8,Lahore,1336068,111339
+Hassan Raza 18,28,Bachelor,9,Islamabad,1706124,142177
+Noor Fatima 19,39,Intermediate,4,Lahore,980976,81748
+Amina Shah 20,23,Bachelor,2,Lahore,814560,67880
+Fatima Noor 21,42,Intermediate,2,Rawalpindi,792624,66052
+Sana Tariq 22,35,Bachelor,9,Karachi,1732140,144345
+Mehwish Noor 23,24,Bachelor,9,Islamabad,1678812,139901
+Omar Farooq 24,24,Intermediate,3,Rawalpindi,641436,53453
+Mehwish Noor 25,44,Intermediate,9,Lahore,1508604,125717
+Areeba Malik 26,24,Master,5,Multan,1328604,110717
+Sana Tariq 27,27,High School,3,Faisalabad,689868,57489
+Areeba Malik 28,21,Bachelor,8,Karachi,1389984,115832
+Areeba Malik 29,32,Master,5,Lahore,1316988,109749
+Zainab Ali 30,39,Master,2,Multan,1180344,98362
+Fahad Khan 31,23,Master,9,Lahore,1628436,135703
+Rabia Khan 32,36,Master,3,Islamabad,1435740,119645
+Saba Raza 33,40,Intermediate,4,Faisalabad,1033908,86159
+Arslan Malik 34,27,Bachelor,7,Multan,1337364,111447
+Mariam Khan 35,35,Master,8,Karachi,1791132,149261
+Zainab Ali 36,23,Intermediate,10,Faisalabad,1348440,112370
+Imran Ali 37,28,High School,1,Lahore,416448,34704
+Talha Saeed 38,22,Master,2,Faisalabad,968388,80699
+Bilal Hussain 39,42,Intermediate,9,Lahore,1531812,127651
+Areeba Malik 40,39,Bachelor,4,Rawalpindi,1116828,93069
+Ahmed Shah 41,24,High School,7,Islamabad,1204068,100339
+Noor Fatima 42,35,Master,1,Multan,1078872,89906
+Danish Ahmed 43,24,High School,6,Karachi,1013676,84473
+Ahmed Shah 44,27,Bachelor,3,Rawalpindi,861672,71806
+Bilal Hussain 45,35,Intermediate,2,Rawalpindi,758592,63216
+Ayesha Malik 46,22,Bachelor,9,Karachi,1491936,124328
+Areeba Malik 47,45,Bachelor,3,Rawalpindi,1093872,91156
+Amina Shah 48,27,Master,1,Lahore,948108,79009
+Ali Khan 49,33,Intermediate,8,Islamabad,1470360,122530
+Arslan Malik 50,44,Master,9,Multan,1946040,162170
+Amina Shah 51,25,High School,4,Karachi,896268,74689
+Mehwish Noor 52,38,High School,6,Karachi,1109052,92421
+Imran Ali 53,36,Bachelor,9,Lahore,1499172,124931
+Usama Khan 54,23,Master,2,Faisalabad,944556,78713
+Rabia Khan 55,28,Intermediate,10,Lahore,1465020,122085
+Sana Tariq 56,22,Bachelor,7,Multan,1276344,106362
+Imran Ali 57,37,Intermediate,5,Lahore,1089264,90772
+Arslan Malik 58,31,Intermediate,7,Lahore,1224048,102004
+Danish Ahmed 59,30,Intermediate,2,Karachi,812496,67708
+Sana Tariq 60,39,Master,2,Faisalabad,1126704,93892
+Usama Khan 61,29,High School,6,Karachi,1060824,88402
+Mariam Khan 62,30,High School,9,Multan,1249872,104156
+Sana Tariq 63,41,Bachelor,9,Islamabad,1846416,153868
+Ayesha Malik 64,25,Intermediate,2,Multan,663168,55264
+Hassan Raza 65,29,Intermediate,4,Multan,852204,71017
+Ahmed Shah 66,42,Bachelor,5,Faisalabad,1257648,104804
+Bilal Hussain 67,22,High School,7,Islamabad,1110264,92522
+Ali Khan 68,31,Bachelor,5,Lahore,1142868,95239
+Laiba Hassan 69,43,Intermediate,1,Karachi,765984,63832
+Talha Saeed 70,43,Master,9,Karachi,1987788,165649
+Imran Ali 71,38,High School,3,Karachi,871800,72650
+Mariam Khan 72,22,Master,4,Multan,1162656,96888
+Rabia Khan 73,24,Intermediate,9,Rawalpindi,1338816,111568
+Mehwish Noor 74,25,Master,4,Lahore,1177200,98100
+Talha Saeed 75,34,High School,6,Rawalpindi,1072500,89375
+Saba Raza 76,44,Bachelor,5,Lahore,1318668,109889
+Ayesha Malik 77,33,Master,8,Lahore,1642428,136869
+Fahad Khan 78,35,Intermediate,4,Lahore,847044,70587
+Rabia Khan 79,27,Intermediate,5,Karachi,1036476,86373
+Mariam Khan 80,41,Bachelor,9,Islamabad,1721424,143452
+Ayesha Malik 81,29,High School,5,Karachi,938112,78176
+Sana Tariq 82,34,Intermediate,6,Rawalpindi,1143984,95332
+Usama Khan 83,24,Intermediate,10,Lahore,1362876,113573
+Sara Ahmed 84,43,Intermediate,9,Faisalabad,1534236,127853
+Mehwish Noor 85,44,Bachelor,4,Islamabad,1349592,112466
+Usman Tariq 86,42,Master,10,Islamabad,2192016,182668
+Saba Raza 87,24,Bachelor,5,Faisalabad,1049604,87467
+Rabia Khan 88,34,Intermediate,5,Faisalabad,953820,79485
+Ahmed Shah 89,34,Bachelor,7,Multan,1311012,109251
+Sana Tariq 90,39,Intermediate,9,Karachi,1540536,128378
+Hira Saeed 91,27,Intermediate,10,Faisalabad,1470312,122526
+Omar Farooq 92,35,Intermediate,4,Faisalabad,935424,77952
+Iqra Ahmed 93,44,High School,2,Islamabad,934140,77845
+Rabia Khan 94,41,Bachelor,2,Lahore,996276,83023
+Hira Saeed 95,28,Bachelor,3,Karachi,964284,80357
+Zainab Ali 96,36,Bachelor,2,Rawalpindi,897480,74790
+Talha Saeed 97,41,Bachelor,7,Rawalpindi,1422564,118547
+Zainab Ali 98,25,Bachelor,1,Karachi,817980,68165
+Zainab Ali 99,26,Bachelor,9,Rawalpindi,1401864,116822
